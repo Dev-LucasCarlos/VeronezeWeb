@@ -1,0 +1,3 @@
+VAR#>mvm clean install -DskipTests
+VAR#>mvn clean install -DskipTests;
+VAR#>mvn clean install -DskipTests;
